@@ -1,1 +1,2 @@
-# Apple-store-project
+#question:
+درمورد absolute , relative بخون
